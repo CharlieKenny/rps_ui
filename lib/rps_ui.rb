@@ -1,5 +1,4 @@
 require 'sinatra/base'
-require 'rps'
 
 class rps_ui < Sinatra::Base
   
